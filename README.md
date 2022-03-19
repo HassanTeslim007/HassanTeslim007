@@ -2,8 +2,7 @@
 
 I'm Teslim (or just call me Alpha) from Nigeria and I'm a Mobile Application developer. I'm familiar with the syntax of major languages and also the basics of Web development. However, I major in cross platfrom app development with the Flutter framework. I'm a SELF-TAUGHT developer so the journey has been rough but yeah, Im proud of my progress so far.
 
-![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanteslim007&hide=contribs,prs)
-
+[![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanteslim007)](https://github.com/hassanteslim007/github-readme-stats)
 <!--
 **HassanTeslim007/HassanTeslim007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
