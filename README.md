@@ -29,4 +29,4 @@ I'm Teslim (or just call me Alpha) from Nigeria and I'm a Mobile Application dev
 [![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanteslim007)](https://github.com/hassanteslim007/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanteslim007&" alt="hassanteslim007" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanteslim007)" alt="Alpha's Github stats" /></p>
+<p><img align="center" src="https://github.com/hassanteslim007/github-readme-stats)" alt="Alpha's Github stats" /></p>
