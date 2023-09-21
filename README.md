@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alpha</h1>
-<h3 align="center">A Mobile developer from the Giant of Africa.  I'm familiar with the syntax of major languages and also the basics of Web development. However, I major in cross platfrom app development with the Flutter framework.</h3>
+<h3 align="left">A Mobile developer from the Giant of Africa.  I'm familiar with the syntax of major languages and also the basics of Web development. However, I major in cross-platform app development with the Flutter framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanteslim007&label=Profile%20views&color=0e75b6&style=flat" alt="hassanteslim007" /> </p>
 
