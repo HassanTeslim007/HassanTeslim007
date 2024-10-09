@@ -7,11 +7,11 @@ A Mobile developer from the Giant of Africa.  I'm familiar with the syntax of ma
 
 <p align="left"> <a href="https://twitter.com/hassanteslim3" target="blank"><img src="https://img.shields.io/twitter/follow/hassanteslim3?logo=twitter&style=for-the-badge" alt="hassanteslim3" /></a> </p>
 
-- 🔭 I’m currently working on **Reisty**
+- 🔭 I’m currently working on **Leisure Trove**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on [https://dev.to/hassanteslim007](https://dev.to/hassanteslim007)
+- 📝 I !regularly write articles on [https://dev.to/hassanteslim007](https://dev.to/hassanteslim007)
 
 - 💬 Ask me about **Dart, Flutter,Computer Science Stuffs**
 
